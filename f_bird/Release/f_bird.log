@@ -1,0 +1,23 @@
+﻿  bird.cpp
+bird.cpp(46): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+bird.cpp(82): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+bird.cpp(61): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+bird.cpp(63): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+bird.cpp(76): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+bird.cpp(96): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+bird.cpp(137): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+bird.cpp(135): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+bird.cpp(251): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  正在生成代码
+  2 of 38 functions ( 5.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  f_bird.vcxproj -> I:\Program Code\C++\1. Game of learning C\F_bird\f_bird\Release\f_bird.exe

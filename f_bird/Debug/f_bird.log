@@ -1,0 +1,18 @@
+﻿  bird.cpp
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(46): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(82): warning C4244: “=”: 从“clock_t”转换到“float”，可能丢失数据
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(61): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(458): note: 参见“kbhit”的声明
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(63): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(76): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(96): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(137): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(135): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+i:\program code\c++\1. game of learning c\f_bird\f_bird\f_bird\bird.cpp(250): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\conio.h(452): note: 参见“getch”的声明
+  f_bird.vcxproj -> I:\Program Code\C++\1. Game of learning C\F_bird\f_bird\Debug\f_bird.exe
